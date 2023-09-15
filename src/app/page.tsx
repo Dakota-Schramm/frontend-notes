@@ -6,7 +6,7 @@ export default function Home() {
     <section className="flex flex-col items-center">
       <h2>General</h2>
       <p>
-        <Link href="/sizing">Sizing</Link>
+        <Link href="/css/sizing">Sizing</Link>
       </p>
     </section>
     <section className="flex flex-col items-center">
