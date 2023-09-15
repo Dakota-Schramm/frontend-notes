@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/debounce/debounce.js", "src/app/throttle/throttle.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/snippets/debounce/debounsrc/app/snippets/throttle/throttle.jsrottle.js"],
   "exclude": ["node_modules"]
 }
