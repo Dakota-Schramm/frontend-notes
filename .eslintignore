@@ -4,5 +4,6 @@ node_modules/*
 config/webpack/*.js
 babel.config.js
 postcss.config.js
+.github/*
 
 **/*.json

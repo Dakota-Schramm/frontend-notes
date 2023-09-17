@@ -2,7 +2,6 @@ module.exports = {
   root: true,
   extends: [
     'eslint:recommended',
-    'standard',
     'plugin:jsx-a11y/strict',
     'next/core-web-vitals'
   ],
