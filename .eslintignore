@@ -1,0 +1,8 @@
+node_modules/*
+
+# These should use a modern JS (nodejs?) eslint configuration
+config/webpack/*.js
+babel.config.js
+postcss.config.js
+
+**/*.json
